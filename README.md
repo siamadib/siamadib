@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Siam Adib
 
-<!--
-**siamadib/siamadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Python
+- HTML & CSS
+- Data Structures & Algorithms
+- Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C++
+- Java
+- Git & GitHub
+- Photoshop
+- Illustrator
+- Canva
+
+## 📫 Contact
+- Email: siamadib0@gmail.com
+
+Thanks for visiting my profile! ⭐
