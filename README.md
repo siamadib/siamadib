@@ -1,6 +1,11 @@
 # 💫 About Me:
-Computer Science & Engineering Student | C++ | Java | Problem Solver | Graphic Designer
+Hi! I'm **Siam Adib**, a Computer Science & Engineering student with a passion for software development and creative design.
 
+💻 I enjoy solving programming problems, and exploring modern technologies.
+
+🎨 Besides coding, I work as a Graphic Designer, creating professional branding, social media designs, and digital content.
+
+📚 I believe in continuous learning and enjoy transforming ideas into real-world applications.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/siamadib29) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siiam.adiib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siam-adib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siamadib0@gmail.com) 
