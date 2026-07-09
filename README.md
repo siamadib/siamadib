@@ -80,14 +80,11 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
 
 
 
-# 💼 Leadership & Experience
+# 💼 Experience
 
-- 🎨 **Jr. Executive of Graphics** — UIU Computer Club *(2025–Present)*
-- 📢 **Associate Coordinator, Brand & Marketing** — Hult Prize UIU On-Campus *(2025)*
-- ⚙️ **Operation Squad Member** — UIU JEF
-- ✍️ **Content Editor** — TableLamp *(2025)*
-- 📋 **Organizing Secretary** — ISTARC *(2021)*
-- 🤝 **Volunteer In-Charge** — BNMPC Science Club *(2022–2023)*
+- Developed desktop applications using Java, JavaFX, and MySQL.
+- Built academic software projects following OOP principles.
+- Solved algorithmic problems using C++ and Java.
 
 # 🏆 Achievements
 
