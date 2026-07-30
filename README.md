@@ -69,6 +69,10 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
  
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siamadib/siamadib/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
