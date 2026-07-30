@@ -61,12 +61,12 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=siamadib&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=siamadib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamadib&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siamadib&theme=tokyonight"/>
- 
+  <img width="98%" src="https://streak-stats.demolab.com?user=siamadib&theme=tokyonight&hide_border=true"/>
 </p>
 
 # 🚀 Featured Projects
