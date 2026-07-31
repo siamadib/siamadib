@@ -9,7 +9,7 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
 
 </div>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Tech+Enthusiast;Frontend+and+ Backend+Developer;Turning+Ideas+Into+Reality;Always+Learning+New+Things+Everyday"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Tech+Enthusiast;Frontend+and+Backend+Developer;Turning+Ideas+Into+Reality;Always+Learning+New+Things+Everyday"/>
 </p>
 
 <p align="center">
