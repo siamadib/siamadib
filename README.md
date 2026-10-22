@@ -115,4 +115,4 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,50:7C3AED,100:4F46E5"/>
-</p>  eikhane last commit ar github analytics ta update hocche na update kore dao
+</p> 
