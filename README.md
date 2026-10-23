@@ -77,24 +77,126 @@ Computer Science & Engineering Student • Problem Solver • Graphic Designer
   <img src="https://raw.githubusercontent.com/siamadib/siamadib/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-# 🚀 Featured Projects
+## 🚀 What I've Been Building
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🍽 PortionFX | Food Donation Management System | JavaFX, MySQL |
-| 🚍 Student Transport Management | File Handling based Management System | C |
-| 🌐 Pathfinder | Interactive Responsive Web Project | HTML, CSS |
-| 💻 Competitive Programming | Algorithms & Data Structures Solutions | C++ |
+<div align="center">
 
+<a href="https://github.com/siamadib">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work"/>
+</a>
 
-# 🏆 Achievements
+</div>
 
-- 🥈 2nd Runner-Up — Hult Prize at UIU (2024–2025)
-- 💻 Coders Combat 5.0
-- 🎬 GP 2D Animation Workshop
+<br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# ✍ Random Dev Quote
+**01 · FOOD & SOCIAL IMPACT**
+
+### 🍱 PortionFX
+
+A food donation management platform designed to connect donors, volunteers, and administrators.
+
+`JavaFX` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+**02 · SYSTEM DEVELOPMENT**
+
+### 🚌 Student Transport
+
+A transport management system built with C and file handling to organize student-related transport data.
+
+`C` `File Handling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · WEB DEVELOPMENT**
+
+### 🌐 Pathfinder
+
+A responsive web project focused on structured layouts, clean styling, and user-friendly design.
+
+`HTML5` `CSS3`
+
+</td>
+<td width="50%" valign="top">
+
+**04 · PROBLEM SOLVING**
+
+### ⚡ Competitive Programming
+
+Algorithmic problem-solving and data structure implementations to strengthen logical thinking and coding skills.
+
+`C++` `DSA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Milestones & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🥉-7C3AED?style=for-the-badge" alt="Bronze Medal"/>
+
+**3rd Runner-Up**
+
+CSE Project Show 2026
+
+<sub>Electronics Lab Project</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🥈-7C3AED?style=for-the-badge" alt="Silver Medal"/>
+
+**2nd Runner-Up**
+
+Hult Prize at UIU
+
+<sub>2024–2025</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/💻-2563EB?style=for-the-badge" alt="Coding"/>
+
+**Coders Combat 5.0**
+
+<sub>Organizer · Invigilator · Theme & Graphics Designer</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🎬-0891B2?style=for-the-badge" alt="Animation"/>
+
+**GP 2D Animation**
+
+<sub>Workshop Participant</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+---
+
+## 💭 A Thought for Developers
 
 <p align="center">
 
